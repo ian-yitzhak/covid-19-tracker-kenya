@@ -1,0 +1,6 @@
+asgiref==3.3.0
+
+Django==3.0
+
+virtualenv==20.1.0
+

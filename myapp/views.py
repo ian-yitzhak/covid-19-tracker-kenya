@@ -10,7 +10,7 @@ def home(request):
 	querystring = {"country":"kenya"}
 
 	headers = {
-	'x-rapidapi-key': "4860a7ad0amsh40ba699492ab825p1f837bjsn29f9a95c3f87",
+	'x-rapidapi-key': "rapid-api-key #check",
 	'x-rapidapi-host': "covid-193.p.rapidapi.com"
 	}
 
